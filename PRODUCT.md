@@ -27,7 +27,7 @@ The current surface is a pre-launch waitlist page. Success is one email address 
 A two-piece product whose evening and morning pieces are timed to each other, presented as a bedtime-to-morning ritual, not as a supplement.
 
 - **Visible in the renders:** the evening piece is the bear (Hugo). The morning piece is the silver capsule shaped like a lidded coffee cup.
-- **Pending:** how the two pieces work and what releases when, in the user's locked wording. The user is supplying this. Do not infer it.
+- **Mechanism (user's wording, `content/copy.md`):** the bear is chewed at bedtime. The cup is swallowed whole, never chewed, and is designed to release near wake-up time. Planned ingredients: magnesium glycinate in the bear; caffeine and L-theanine in the cup. Both are "the current plan and may change".
 
 ## Operating Context
 
@@ -62,7 +62,7 @@ A two-piece product whose evening and morning pieces are timed to each other, pr
   - eyes looking straight ahead
 
   These are the frames for the mouse-following Hugo. They are about 1700×925 and landscape. They must not be generated, restyled or recoloured; any cut-out or background treatment needs the user's approval first. File paths are pending until the images are added to the repo. All are concept renders and carry the concept-render disclaimer.
-- **Approved copy and ingredient wording:** being supplied by the user. Pending.
+- **Approved copy and ingredient wording:** `content/copy.md`. It is locked and verbatim. [Founder name] and [Launch offer goes here] stay visible placeholders until the user supplies them.
 - **None exist:** testimonials, reviews, press, clinical evidence, customer counts or pricing. Never fabricate any of these.
 
 ## Product Principles
